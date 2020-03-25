@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d97a3ebc-d653-487c-a0d9-fea3bd059dc0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="149" column="13" selection-start-line="149" selection-start-column="13" selection-end-line="149" selection-end-column="13" />
+              <folding>
+                <element signature="e#1#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/example/fig/FM.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DeepFM.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="293" column="64" selection-start-line="293" selection-start-column="64" selection-end-line="293" selection-end-column="64" />
+              <folding>
+                <element signature="e#0#206#1" />
+                <element signature="e#1128#2423#0" />
+                <element signature="e#2460#9193#0" />
+                <element signature="e#2567#8838#0" />
+                <element signature="e#3976#4021#0" />
+                <element signature="e#4070#4121#0" />
+                <element signature="e#5167#5755#0" />
+                <element signature="e#5387#5566#0" />
+                <element signature="e#6347#6450#0" />
+                <element signature="e#6662#7012#0" />
+                <element signature="e#6832#7012#0" />
+                <element signature="e#6895#7012#0" />
+                <element signature="e#7455#7642#0" />
+                <element signature="e#7710#7897#0" />
+                <element signature="e#8133#8266#0" />
+                <element signature="e#8279#8321#0" />
+                <element signature="e#8538#8749#0" />
+                <element signature="e#9232#9483#0" />
+                <element signature="e#9289#9395#1" />
+                <element signature="e#9538#11870#0" />
+                <element signature="e#9554#9599#0" />
+                <element signature="e#10574#11053#0" />
+                <element signature="e#11930#12430#0" />
+                <element signature="e#12781#12979#0" />
+                <element signature="e#13028#13412#0" />
+                <element signature="e#13040#13308#0" />
+                <element signature="e#16574#17363#0" />
+                <element signature="e#16763#16988#0" />
+                <element signature="e#17423#18138#0" />
+                <element signature="e#17501#18117#0" />
+                <element signature="e#17544#17813#0" />
+                <element signature="e#17848#18117#0" />
+                <element signature="e#18179#19487#0" />
+                <element signature="e#18179#18409#1" />
+                <element signature="e#18678#19464#0" />
+                <element signature="e#18727#19060#0" />
+                <element signature="e#19532#19885#0" />
+                <element signature="e#19532#19804#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/DataReader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="45" column="63" selection-start-line="45" selection-start-column="63" selection-end-line="45" selection-end-column="63" />
+              <folding>
+                <element signature="e#153#172#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/metrics.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="8" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-201">
+              <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/draft.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>get_batch</find>
+      <find>saver</find>
+      <find>Variable</find>
+      <find>olds</find>
+      <find>895536</find>
+      <find>run</find>
+      <find>predict</find>
+      <find>evaluate</find>
+      <find>_init_graph</find>
+      <find>feature_size</find>
+      <find>fit</find>
+      <find>sess.run</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/example/sefl_try.py" />
+        <option value="$PROJECT_DIR$/Recommand/Recommender.py" />
+        <option value="$PROJECT_DIR$/Recommender_cnn/plot_movies.py" />
+        <option value="$PROJECT_DIR$/Recommender_cnn/utils.py" />
+        <option value="$PROJECT_DIR$/example/draft.py" />
+        <option value="$PROJECT_DIR$/DeepFM.py" />
+        <option value="$PROJECT_DIR$/../../../面授课件/17.《翻转课堂二》/翻转课堂/DNN实践/tensorflow-DeepFM-master/example/DataReader.py" />
+        <option value="$PROJECT_DIR$/example/config.py" />
+        <option value="$PROJECT_DIR$/example/DataReader.py" />
+        <option value="$PROJECT_DIR$/example/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="245" />
+    <option name="y" value="260" />
+    <option name="width" value="1440" />
+    <option name="height" value="872" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tensorflow-DeepFM-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensorflow-DeepFM-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensorflow-DeepFM-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensorflow-DeepFM-master" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensorflow-DeepFM-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensorflow-DeepFM-master" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="fig" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../面授课件/17.《翻转课堂二》/翻转课堂/DNN实践/tensorflow-DeepFM-master" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="DataReader" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tensorflow-DeepFM-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example/DataReader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DeepFM" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tensorflow-DeepFM-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepFM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="draft" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tensorflow-DeepFM-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example/draft.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tensorflow-DeepFM-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot_movies" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tensorflow-DeepFM-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recommender_cnn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recommender_cnn/plot_movies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.DataReader" />
+        <item itemvalue="Python.draft" />
+        <item itemvalue="Python.DeepFM" />
+        <item itemvalue="Python.plot_movies" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d97a3ebc-d653-487c-a0d9-fea3bd059dc0" name="Default Changelist" comment="" />
+      <created>1584000798441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584000798441</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17860906" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.13109426" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17860906" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21018419" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/example/output/DeepFM_Mean0.61286_Std0.00420.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/data/test.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="23">
+          <caret line="1" column="167" selection-start-column="51" selection-end-line="1" selection-end-column="167" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/checkpoint/model.ckpt.data-00000-of-00001">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/checkpoint/model.ckpt.index">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/checkpoint/parameters/Variable_5/Variable_5.mat" />
+    <entry file="file://$PROJECT_DIR$/example/data/movie_feature_data_test.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state>
+          <caret column="33" selection-start-column="28" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/fig/DNN.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/output/FM_Mean0.60147_Std0.00976.csv" />
+    <entry file="file://$PROJECT_DIR$/example/output/DNN_Mean0.56009_Std0.01382.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6898794">
+          <caret line="20" column="3" selection-start-line="6" selection-start-column="7" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/output/FM_Mean0.59121_Std0.00050.csv" />
+    <entry file="file://$PROJECT_DIR$/example/output/FM_Mean0.60133_Std0.00242.csv" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="2994" selection-start-line="2994" selection-end-line="2994" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/output/FM_Mean0.57904_Std0.00098.csv" />
+    <entry file="file://$PROJECT_DIR$/example/output/FM_Mean0.57959_Std0.00121.csv" />
+    <entry file="file://$PROJECT_DIR$/example/output/FM_Mean0.58100_Std0.00030.csv" />
+    <entry file="file://$PROJECT_DIR$/example/output/FM_Mean0.59061_Std0.00085.csv" />
+    <entry file="file://$PROJECT_DIR$/example/sefl_try.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103500">
+          <caret line="4584" column="8" selection-start-line="4584" selection-start-column="8" selection-end-line="4584" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/fig/DeepFM.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-695925223/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="2913" selection-start-line="2913" selection-end-line="2924" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recommand/Recommender.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2116">
+          <caret line="95" selection-start-line="95" selection-end-line="95" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../movie_data/ml-25m/movies.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/tensorflow/python/ops/random_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="43" column="64" selection-start-line="43" selection-start-column="64" selection-end-line="43" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-695925223/numpy/random/mtrand.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-112">
+          <caret line="1635" column="22" selection-start-line="1635" selection-start-column="22" selection-end-line="1635" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/tensorflow/python/ops/gen_array_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="8941" selection-start-line="8941" selection-end-line="9063" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recommender_cnn/model_1.h5">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="549" selection-start-line="549" selection-end-line="549" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/sklearn/model_selection/_split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13064">
+          <caret line="584" column="8" selection-start-line="584" selection-start-column="8" selection-end-line="584" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="302" column="6" selection-start-line="302" selection-start-column="6" selection-end-line="302" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recommender_cnn/self_try_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recommender_cnn/self_try_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-809">
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recommender_cnn/self_try_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recommender_cnn/recommend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="40" column="49" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/pandas/core/series.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="3752" column="26" selection-start-line="3752" selection-start-column="26" selection-end-line="3752" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/plotly/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recommender_cnn/movies.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4347" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/tensorflow/python/framework/dtypes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-317">
+          <caret line="515" selection-start-line="515" selection-end-line="515" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recommender_cnn/plot_movies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2641">
+          <caret line="137" column="29" selection-start-line="137" selection-start-column="29" selection-end-line="137" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recommender_cnn/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="141" column="19" selection-start-line="141" selection-start-column="8" selection-end-line="141" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/keras/layers/merge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+          <folding>
+            <element signature="e#54#92#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-695925223/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="249" column="12" lean-forward="true" selection-start-line="249" selection-start-column="12" selection-end-line="254" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/draft.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../面授课件/17.《翻转课堂二》/翻转课堂/DNN实践/tensorflow-DeepFM-master/example/DataReader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="77" column="16" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../面授课件/17.《翻转课堂二》/翻转课堂/DNN实践/tensorflow-DeepFM-master/example/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-201">
+          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/metrics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/DataReader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="45" column="63" selection-start-line="45" selection-start-column="63" selection-end-line="45" selection-end-column="63" />
+          <folding>
+            <element signature="e#153#172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepFM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="293" column="64" selection-start-line="293" selection-start-column="64" selection-end-line="293" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#206#1" />
+            <element signature="e#1128#2423#0" />
+            <element signature="e#2460#9193#0" />
+            <element signature="e#2567#8838#0" />
+            <element signature="e#3976#4021#0" />
+            <element signature="e#4070#4121#0" />
+            <element signature="e#5167#5755#0" />
+            <element signature="e#5387#5566#0" />
+            <element signature="e#6347#6450#0" />
+            <element signature="e#6662#7012#0" />
+            <element signature="e#6832#7012#0" />
+            <element signature="e#6895#7012#0" />
+            <element signature="e#7455#7642#0" />
+            <element signature="e#7710#7897#0" />
+            <element signature="e#8133#8266#0" />
+            <element signature="e#8279#8321#0" />
+            <element signature="e#8538#8749#0" />
+            <element signature="e#9232#9483#0" />
+            <element signature="e#9289#9395#1" />
+            <element signature="e#9538#11870#0" />
+            <element signature="e#9554#9599#0" />
+            <element signature="e#10574#11053#0" />
+            <element signature="e#11930#12430#0" />
+            <element signature="e#12781#12979#0" />
+            <element signature="e#13028#13412#0" />
+            <element signature="e#13040#13308#0" />
+            <element signature="e#16574#17363#0" />
+            <element signature="e#16763#16988#0" />
+            <element signature="e#17423#18138#0" />
+            <element signature="e#17501#18117#0" />
+            <element signature="e#17544#17813#0" />
+            <element signature="e#17848#18117#0" />
+            <element signature="e#18179#19487#0" />
+            <element signature="e#18179#18409#1" />
+            <element signature="e#18678#19464#0" />
+            <element signature="e#18727#19060#0" />
+            <element signature="e#19532#19885#0" />
+            <element signature="e#19532#19804#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="149" column="13" selection-start-line="149" selection-start-column="13" selection-end-line="149" selection-end-column="13" />
+          <folding>
+            <element signature="e#1#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/fig/FM.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+  </component>
+</project>
